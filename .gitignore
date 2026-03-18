@@ -1,0 +1,12 @@
+.DS_Store
+
+# Local notes (not for public)
+TODO.md
+NOTES.md
+*.local.md
+
+# IDE
+.idea/
+
+# Claude Code local settings
+.claude/
